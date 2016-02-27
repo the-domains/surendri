@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[surendri]]></title>
+        <description><![CDATA[surendri]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 19:27:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Surendri Girl - by Spardha Malik]]></title>
+            <description><![CDATA[<article><h1>The Surendri Girl - by Spardha Malik</h1><p>There she stands in a faceless crowd, one in a million. She should be invisible like every other person in this world - almost like a pixel in a digital picture. And yet, you can tell that she's not like the other pixels. She's the brightest one there ever was.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bebb3a756742fc2e16038e6d6b8905d28b3e664.jpg"></article>]]></description>
+            <link>https://surendri.com/blogs/surendri/18141715-the-surendri-girl-by-spardha-malik</link>
+            <guid isPermaLink="false">109be015-67ff-4477-98f7-c7b9382a5869</guid>
+            <pubDate>Sat, 27 Feb 2016 19:27:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
