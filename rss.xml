@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[surendri]]></title>
         <description><![CDATA[surendri]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/surendri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 19:27:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 19:28:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/surendri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taking the long way around - by Mohit Rai]]></title>
+            <description><![CDATA[<article><h1>Taking the long way around - by Mohit Rai</h1><p>I've known Yogesh, to be referred to as Yogi hereon, for what seems like an eternity now. The time when drives back home were the inception point of the empire he is now on the path to build. Was there always a vision? Yes. Was there a sense of direction?</p><img src="http://cdn.shopify.com/s/files/1/0639/1757/files/2_7f89c6d4-9061-4e9d-9724-193e3d3fabb3_large.jpg?6332049134614263546"></article>]]></description>
+            <link>https://surendri.com/blogs/surendri/18132423-taking-the-long-way-around-by-mohit-rai</link>
+            <guid isPermaLink="false">f24166b9-e587-4f94-8196-17c385d29e4f</guid>
+            <pubDate>Sat, 27 Feb 2016 19:27:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Surendri Girl - by Spardha Malik]]></title>
             <description><![CDATA[<article><h1>The Surendri Girl - by Spardha Malik</h1><p>There she stands in a faceless crowd, one in a million. She should be invisible like every other person in this world - almost like a pixel in a digital picture. And yet, you can tell that she's not like the other pixels. She's the brightest one there ever was.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bebb3a756742fc2e16038e6d6b8905d28b3e664.jpg"></article>]]></description>
